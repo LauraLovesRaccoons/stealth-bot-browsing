@@ -14,3 +14,4 @@ also to run it in the terminal you have to be in the project folder
 npm start
 
 also the folder node_modules is not hosted on my github, just create a new project
+looking into .gitignore makes you wiser
