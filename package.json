@@ -1,14 +1,17 @@
 {
-  "name": "testing_with_puppeteer_final_frontend",
-  "version": "1.0.0",
-  "description": "",
+  "name": "Stealth_Bots_In_Bowser",
+  "version": "0.1.0",
+  "description": "Grab amazon prices with notifications and bypass captchas",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
-  "author": "",
+  "author": "Laura",
   "license": "ISC",
   "dependencies": {
-    "puppeteer": "^21.3.8"
+    "node-notifier": "^10.0.1",
+    "puppeteer": "^21.3.8",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
   }
 }
