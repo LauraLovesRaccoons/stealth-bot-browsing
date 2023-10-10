@@ -1,6 +1,3 @@
-https://oxylabs.io/blog/puppeteer-bypass-captcha
-https://javascript.plainenglish.io/puppeteer-cookie-popup-click-a027ffe71ef7
-https://stackoverflow.com/questions/55884061/scraping-amazon-with-puppeteer
 
 /*** READ.ME ***/
 
@@ -15,3 +12,14 @@ npm start
 
 also the folder node_modules is not hosted on my github, just create a new project
 looking into .gitignore makes you wiser
+
+
+
+--------------------------------
+LINKS:
+
+https://oxylabs.io/blog/puppeteer-bypass-captcha
+https://javascript.plainenglish.io/puppeteer-cookie-popup-click-a027ffe71ef7
+https://stackoverflow.com/questions/55884061/scraping-amazon-with-puppeteer
+https://agenty.com/docs/how-to-accept-cookie-consent-prompts-before-scraping-the-website/332
+
